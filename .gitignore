@@ -1,0 +1,11 @@
+.DS_Store
+.build-cache/
+.snapframe-build-cache/
+legacy-SnapFrame-binary
+
+# Local build outputs
+SnapFrame
+
+# macOS app bundle generated locally by the build/start script.
+SnapFrame.app/Contents/MacOS/SnapFrame
+SnapFrame.app/Contents/_CodeSignature/
